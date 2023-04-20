@@ -1,9 +1,7 @@
-#pragma once
-#include "math_3d.h"
 #ifndef CAMERA_H
 #define	CAMERA_H
 
-
+#include "math_3d.h"
 
 
 class Camera
