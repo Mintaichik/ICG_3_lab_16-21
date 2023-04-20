@@ -1,8 +1,5 @@
-#pragma once
-
 #ifndef CALLBACKS_H
 #define CALLBACKS_H
-
 class ICallbacks
 {
 public:
